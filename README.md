@@ -17,6 +17,8 @@
 
 <p align="center">
   <a href="https://waleedtarbosh.github.io/Blackjack-Game/">🌐 Live Demo ⚡</a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#-screenshots-️">📸 Screenshots</a>
 </p>
 
 ---
@@ -28,6 +30,27 @@
 The game features dynamic card rendering, automatic score calculation (including special handling for Aces), and responsive design adapting from desktop down to mobile devices. 
 
 > 💡 **Why this project stands out:** It demonstrates solid understanding of JavaScript logic, DOM manipulation, array and object handling, and basic responsive web design principles using media queries.
+
+---
+
+## 📸 Screenshots 🖼️
+
+<div align="center">
+  <table>
+    <tr>
+      <th align="center">Screen</th>
+      <th align="center">🖥️ Desktop View</th>
+      <th align="center">📱 iPad Pro</th>
+      <th align="center">📲 iPhone 14 Pro Max</th>
+    </tr>
+    <tr>
+      <td align="center"><strong>Game Screen</strong></td>
+      <td align="center"><img src="assets/pc.png" alt="Desktop View" width="300"/></td>
+      <td align="center"><img src="assets/i pad pro.png" alt="iPad Pro View" width="150"/></td>
+      <td align="center"><img src="assets/iphone 14 pro max.png" alt="iPhone 14 Pro Max View" width="80"/></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
